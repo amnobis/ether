@@ -6,6 +6,6 @@ proxypool2 eth-us2.dwarfpool.com:8008
 flags --cl-global-work 8192 --farm-recheck 200
 globalfan 60
 
-globalcore 1125
+globalcore 1175
 globalmem 2200
 globalpowertune 3
