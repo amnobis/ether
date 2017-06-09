@@ -1,5 +1,5 @@
 maxgputemp 85
-startumproxy enabled
+stratumproxy enabled
 proxywallet 0x8432844144e8e0c9f3076fcbe47608fd6327d188
 proxypool1 eth-us.dwarfpool.com:8080
 proxypool2 eth-us2.dwarfpool.com:8080
