@@ -1,0 +1,11 @@
+maxgputemp 85
+startumproxy enabled
+proxywallet 0x8432844144e8e0c9f3076fcbe47608fd6327d188
+proxypool1 eth-us.dwarfpool.com:8080
+proxypool2 eth-us2.dwarfpool.com:8080
+flags --cl-global-work 8192 --farm-recheck 200
+globalfan 60
+
+globalcore 1150
+globalmem 2100
+globalpowertune 3
