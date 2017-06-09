@@ -7,5 +7,5 @@ flags --cl-global-work 8192 --farm-recheck 200
 globalfan 60
 
 globalcore 1125
-globalmem 2150
+globalmem 2100
 globalpowertune 3
