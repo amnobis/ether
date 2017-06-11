@@ -7,6 +7,8 @@ flags --cl-global-work 8192 --farm-recheck 200
 globalfan 80
 
 globalminer claymore
-globalcore 1125
-globalmem 2100
-globalpowertune 3
+
+cor a2c34d 1125 1000
+mem a2c34d 2100 1500
+fan a2c34d 80 80
+pwr a2c34d 3 20
