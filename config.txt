@@ -12,4 +12,3 @@ cor a2c34d 1125 1125
 mem a2c34d 2250 2100
 fan a2c34d 80 80
 pwr a2c34d 3 3
-vlt a2c34d 0.9 0.9
