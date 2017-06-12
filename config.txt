@@ -4,11 +4,11 @@ proxywallet 0x8432844144e8e0c9f3076fcbe47608fd6327d188
 proxypool1 eth-us.dwarfpool.com:8008
 proxypool2 eth-us2.dwarfpool.com:8008
 flags --cl-global-work 8192 --farm-recheck 200
-globalfan 80
+globalfan 70
 
 globalminer claymore
 
 cor a2c34d 1125 1125
-mem a2c34d 2100 2100
+mem a2c34d 2300 2100
 fan a2c34d 80 80
-pwr a2c34d 3 3
+pwr a2c34d 4 3
