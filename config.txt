@@ -9,6 +9,6 @@ globalfan 70
 globalminer claymore
 
 cor a2c34d 1150 1200
-mem a2c34d 1950 2250 
+mem a2c34d 1950 2225 
 fan a2c34d 80 70
 pwr a2c34d 3 3
